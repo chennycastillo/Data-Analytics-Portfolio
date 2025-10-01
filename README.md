@@ -1,7 +1,5 @@
 # Data-Analytics-Portfolio
 
-Welcome to my Data Analytics Portfolio! I'm an experienced Data Analyst with over 6 years of work experience in Excel, PowerBI, and Postgres. I'm driven by a passion for continuous learning and skills expansion. Explore a collection of projects I've created in my spare time, where I've used data from various sources, including Kaggle and online courses, to bring these projects to life. Each project showcases my dedication to uncovering insights from data.
+Hi, I’m Chen! I’m a Data Analyst with 7+ years of experience in SQL, Excel, and visualization tools such as Power BI, Tableau, and Looker Studio, along with some background in Python. Here you’ll find a collection of projects where I applied my skills to turn data into insights.
 
-Please note that, due to confidentiality agreements during my tenure at companies, I am unable to share the work I did in those roles here. However, these personal projects are a testament to my passion for data analysis and my ongoing journey to enhance my Python skills.
-
-Thank you for joining me on this journey of growth, and I appreciate your interest in my portfolio!
+Please note that due to confidentiality agreements during my professional roles, I am unable to share the work I did in those positions here. However, these personal projects reflect my passion for data analysis and serve as practical demonstrations of my skills.
